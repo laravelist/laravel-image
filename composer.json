@@ -11,8 +11,8 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.x",
-        "imagecow/imagecow": "0.*",
-        "league/flysystem": "0.5.*"
+        "imagecow/imagecow": "1.3.*",
+        "league/flysystem": "1.*"
     },
     "autoload": {
         "psr-0": {
