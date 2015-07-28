@@ -1,5 +1,5 @@
 {
-    "name": "andheiberg/image",
+    "name": "defara/image",
     "description": "Image processing library with on the fly processing of image requests.",
     "keywords": ["laravel", "image", "on-the-fly", "processing"],
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.x",
+        "illuminate/support": "5.x",
         "imagecow/imagecow": "0.*",
         "league/flysystem": "0.5.*"
     },
